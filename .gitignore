@@ -1,0 +1,7 @@
+.vscode/
+data/
+build/
+dist/
+__pycache__/
+.venv/
+.idea/
