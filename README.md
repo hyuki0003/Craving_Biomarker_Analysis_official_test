@@ -22,11 +22,11 @@
 
 이 프로젝트는 다음과 같은 기술과 라이브러리를 기반으로 합니다.
 
-* **Language:** Python 3.x
+* **Language:** Python 3.9
 * **Data Analysis:** Pandas, NumPy, SciPy
 * **Visualization:** Matplotlib, Seaborn
-* **Signal Processing:** [MNE-Python / NeuroKit2 등 사용하는 라이브러리 입력]
-* **Machine Learning:** Scikit-learn, [PyTorch/TensorFlow 등]
+* **Signal Processing:** NeuroKit2
+* **Machine Learning:** Scikit-learn
 
 ---
 
